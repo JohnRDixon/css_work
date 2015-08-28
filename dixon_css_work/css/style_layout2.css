@@ -1,0 +1,71 @@
+/*css file*/
+
+.wrapper{
+	width: 515px;
+	margin: 0 auto;
+}
+
+.red{
+	background-color: #f60005;
+	height: 85px;
+	clear: both;
+	margin-bottom: 10px
+}
+
+#blue{
+	background-color: #49baf2;
+	height: 440px;
+	width: 66.666%;
+	float: left;
+	margin-bottom: 10px
+}
+
+
+#yellow{
+	background-color: #f8ff28;
+	height: 440px;
+	width: 33.333%;
+	float: left;
+	margin-bottom: 10px
+}
+
+#purple{
+	background-color: #8b7bbb;
+	height: 197.5px;
+	width: 105px;
+	float: left;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#orange{
+	background-color: #e96526;
+	height: 197.5px;
+	width: 105px;
+	float: left;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	
+}
+
+#green{
+	background-color: #3fbb4d;
+	height: 197.5px;
+	width: 105px;
+	float: left;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	
+
+}
+
+
+#pink {
+	background-color: #f094c1;
+	height: 197.5px;
+	width: 315px;
+	float: left;
+	margin-bottom: 15px;
+	margin-left: 15px;
+}
